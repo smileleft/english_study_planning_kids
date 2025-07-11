@@ -28,7 +28,7 @@ SEARCH_KEYWORDS = [
     "Biff Chip Kipper story time"
 ]
 
-# 교육적 품질 평가 키워드
+# keywords for educational quality
 POSITIVE_KEYWORDS = [
     'oxford reading tree', 'phonics', 'reading', 'learn', 'education',
     'children', 'kids', 'story', 'book', 'biff', 'chip', 'kipper', 'floppy'
@@ -43,7 +43,7 @@ TRUSTED_CHANNEL_INDICATORS = [
     'phonics with', 'reading eggs', 'learn with', 'education'
 ]
 
-# 적절한 영상 길이 (초 단위)
-MIN_VIDEO_DURATION = 60    # 1분
-MAX_VIDEO_DURATION = 1200  # 20분
+# video length (by seconds)
+MIN_VIDEO_DURATION = 60    # 1 minute
+MAX_VIDEO_DURATION = 1200  # 20 minutes
 
