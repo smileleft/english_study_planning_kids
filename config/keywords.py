@@ -1,13 +1,13 @@
 """검색 키워드 및 분석 기준 정의"""
 
 SEARCH_KEYWORDS = [
-    # 핵심 캐릭터 기반
+    # by character
     "Biff Chip Kipper Level 1",
     "Oxford Reading Tree Level 1 stories",
     "Biff Chip Kipper first words",
     "Oxford Reading Tree wordless stories",
     
-    # 구체적인 책 제목
+    # by title
     "Oxford Reading Tree I See",
     "Oxford Reading Tree Up You Go", 
     "Oxford Reading Tree Get On",
@@ -16,13 +16,13 @@ SEARCH_KEYWORDS = [
     "Oxford Reading Tree The Pancake",
     "Floppy Did This Oxford Reading Tree",
     
-    # 교육적 검색
+    # by educational purpose
     "Oxford Reading Tree phonics Level 1",
     "Biff Chip Kipper reading aloud",
     "Oxford Reading Tree for beginners",
     "English reading for 3 year olds Oxford",
     
-    # 채널/시리즈 기반
+    # by channel and series
     "Read with Oxford Level 1",
     "Oxford Owl Level 1",
     "Biff Chip Kipper story time"
