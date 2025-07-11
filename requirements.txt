@@ -11,5 +11,5 @@ pytz
 APScheduler
 sqlite3
 python-dotenv==1.0.0
-pydantic==2.5.0
+pydantic==2.11.7
 requests==2.31.0
